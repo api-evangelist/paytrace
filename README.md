@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-PayTrace is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://paytrace.net/
+PayTrace provides payment processing solutions for merchants, offering a suite of APIs that enable online, mobile, and in‑store transactions. The platform supports credit, debit, ACH, and tokenized payments, with features such as fraud detection, recurring billing, and detailed reporting. PayTrace’s developer portal offers comprehensive documentation, SDKs, and sandbox environments to help businesses integrate payment capabilities quickly and securely.
+
+**Areas:** Company · Payments · API · FinTech · Merchant Services
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://paytrace.net/)
+- [Getting started](https://paytrace.net/resources/merchant-onboarding)
+- [Support](https://paytrace.net/support)
+- [Blog](https://paytrace.net/blog)
+- [Security](https://paytrace.net/security)
+- [Terms of service](https://paytrace.net/terms)
+- [Privacy policy](https://paytrace.net/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/paytrace/](https://apis.io/providers/paytrace/).
